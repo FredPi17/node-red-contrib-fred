@@ -1,0 +1,20 @@
+{
+  "name": "red-contrib-fred",
+  "version": "1.0.0",
+  "description": "npm repository for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Frédéric Pinaud",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredPi17/node-red-contrib-fred.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FredPi17/node-red-contrib-fred/issues"
+  },
+  "homepage": "https://github.com/FredPi17/node-red-contrib-fred#readme"
+}
